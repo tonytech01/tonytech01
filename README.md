@@ -14,16 +14,3 @@
 ### ⭐ Recent Stars
 
 - [tonytech83/Inventory](https://github.com/tonytech83/Inventory) - Django Project for Final Exam
-### 📰 Recent Blog Posts
-
-- [Enhanced Linux in Windows](https://christitus.com/enhanced-linux-in-windows/)
-- [Removing SystemD from Linux](https://christitus.com/removing-systemd/)
-- [The Most Popular Windows Utility](https://christitus.com/winutil-install/)
-- [Crowdstrike Alternatives](https://christitus.com/crowdstrike-alternatives/)
-- [Home Theater PC](https://christitus.com/home-theater-pc/)
-### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/ChrisTitusTech>
-  - Twitch    : <https://twitch.tv/christitustech>
-  - Twitter   : <https://twitter.com/christitustech>
-  - Website   : <https://christitus.com>
-  - Web Store : <https://cttstore.com>
